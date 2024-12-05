@@ -1,0 +1,56 @@
+body{
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    background-position: left top;
+    background-attachment:scroll;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    background-size: 100% 100%;
+    font-weight: 100px;
+    margin: auto;
+    outline-offset: 50px;
+    float: right;
+    border-radius: 20px;
+    margin: 0px 0px 0px 0px ;
+    overflow: auto;
+    font-style: normal;
+}
+.box3{
+    width: 1335px;
+    margin: auto;
+    height: 500px;
+    display: block;
+    background-image:url(../../../-2147483648_-210347.jpg);
+    background-repeat: no-repeat;    
+    background-size: 100% 100%;
+    font-size: 15px;
+    outline-offset: 50px;
+    float: right;
+    border-radius: 20px;
+    margin: 0px 0px 0px 0px ;
+    overflow: auto;
+}
+.box4{
+    width: 1330px;
+    height: 700px;
+    display: block;
+    color: rgb(248, 248, 248);
+    background-image: url(../../../fgtu.webp);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    font-size: 29px;
+    outline-offset: 50px;
+    float: right;
+    margin: auto;
+    border-radius: 20px;
+    margin: 0px 0px 0px 0px ;
+    overflow: auto;
+}
+a{
+     color: azure;
+    font-size: 25px;
+}
+#map {
+   height: 100%;
+   width: 100%;
+}

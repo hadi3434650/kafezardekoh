@@ -1,0 +1,67 @@
+body{
+    background-color: rgba(105, 104, 104, 0.925);
+    background-image: url(../../../bia.webp);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    background-position: left top;
+    background-attachment:scroll;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    font-weight: 100;
+    font-style: normal;
+}
+.box1{
+    width: 400px;
+    height: 600px;
+    display: block;
+    border: 2px solid  #756d6d;
+    background-image: url(../../../-2147483648_-210343.jpg);
+    outline-offset: 50px;
+    float: right;
+    border-radius: 20px;
+    color: aliceblue;
+    margin: 20px 150px 0px 0px ;
+    overflow: auto;
+    background-repeat: no-repeat;
+    font-size: 30px;
+    text-align: center;
+    background-size: 100% 100%;
+}
+.box2{
+    width: 400px;
+    height: 600px;
+    display: block;
+    border: 2px solid  #756d6d;
+    background-color: rgb(14, 14, 14);
+    background-image: url(../../../1591690788_photography-food-background.jpg);
+    outline-offset: 50px;
+    float: right;
+    border-radius: 20px;
+    margin: 20px 150px 0px 0px ;
+    overflow: auto;
+    background-size: 100% 100%;
+    font-size: 30px;
+    text-align: center;
+}
+.box3{
+    width: 400px;
+    height: 600px;
+    display: block;
+    font-size: 30px;
+    text-align: center;
+    border: 2px solid  #756d6d;
+    background-image: url(../../../BG1009114www.tiktarh.com_.jpg);
+    outline-offset: 50px;
+    float: right;
+    border-radius: 20px;
+    margin: 20px 150px 0px 0px ;
+    overflow: auto;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+a{
+    background-color: #b6b6b6;
+    font-size: 24px;
+    color: black;
+    margin: 240px;
+}
